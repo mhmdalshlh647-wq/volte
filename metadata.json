@@ -1,0 +1,6 @@
+{
+  "name": "فني VoLTE – يمن موبايل",
+  "description": "مرجع فني شامل وأوفلاين لدعم خدمة VoLTE يمن موبايل، الأكواد، الإعدادات والمشاكل والحلول.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
